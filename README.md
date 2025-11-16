@@ -61,5 +61,5 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
 - **Product Performance**
 - **Sales Trends**
-
+- Power BI Dashboard Link :- https://app.fabric.microsoft.com/view?r=eyJrIjoiNmY4NjZhNmEtZDdmYy00YWI5LTk5MTUtMTgwYWZmYWEzOWMxIiwidCI6Ijk5MzkyZDZlLWY1M2EtNDkxZC1hZjkwLTM2MDUxZDc1NTM5NCJ9
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
